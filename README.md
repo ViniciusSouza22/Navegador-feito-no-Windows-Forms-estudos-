@@ -1,0 +1,1 @@
+Estou desenvolvendo um navegador utilizando Windows Forms. Apesar de ser uma ótima ferramenta de aprendizado, enfrento limitações estéticas, já que a plataforma oferece pouco suporte para interfaces modernas e fluidas.
